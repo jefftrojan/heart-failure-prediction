@@ -2,6 +2,7 @@ fastapi
 uvicorn
 pillow
 numpy
+keras
 tensorflow
 scikit-learn
 matplotlib
@@ -9,5 +10,3 @@ pandas
 joblib
 seaborn
 streamlit
-io
-os
