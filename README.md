@@ -134,7 +134,16 @@ predictions = predict(model, new_data)
 
 ## Deployment link
 
-  The model is deployed on Render. You can access it here: [https://heart-failure-prediction-ktzo.onrender.com]
+  The model is deployed on Render. You can access it here: [https://heart-failure-prediction-ktzo.onrender.com/docs]
+
+## Load testing to simulate a large number of requests
+
+ Run the command 
+```bash
+locust -f locustfile.py --host=http://127.0.0.1:8000
+
+```
+
 
 ## Additional Notes
 
