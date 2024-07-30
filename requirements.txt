@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pillow
+numpy
+tensorflow
+scikit-learn
+matplotlib
+pandas
+joblib
+seaborn
+streamlit
+io
+os
