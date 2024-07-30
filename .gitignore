@@ -1,0 +1,13 @@
+venv
+.env
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+*.egg
+*.db
+*.sqlite
+*.log
+*.swp
+*.swo
+*.swn
