@@ -10,3 +10,4 @@ pandas
 joblib
 seaborn
 streamlit
+locust

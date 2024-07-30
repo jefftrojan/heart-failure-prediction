@@ -131,6 +131,11 @@ new_data = pd.DataFrame({...})
 predictions = predict(model, new_data)
 ```
 
+
+## Deployment link
+
+  The model is deployed on Render. You can access it here: [https://heart-failure-prediction-ktzo.onrender.com]
+
 ## Additional Notes
 
 - The model and preprocessing steps can be fine-tuned by adjusting parameters in the respective Python files.
