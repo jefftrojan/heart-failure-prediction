@@ -136,6 +136,10 @@ predictions = predict(model, new_data)
 
   The model is deployed on Render. You can access it here: [https://heart-failure-prediction-ktzo.onrender.com/docs]
 
+## Demo video
+Link - > [https://www.loom.com/share/eb587df444e04358bf969ce76e8bfda1?sid=cb5c4119-c84d-435a-9394-d0245657562b]
+
+
 ## Load testing to simulate a large number of requests
 
  Run the command 
